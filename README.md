@@ -2,7 +2,7 @@
 ### Sou Frederik, Profissional de T.I
 
 Analista de Sistemas/ Dev Back-End 🧑🏻‍💻 
-Linguagem UNIFACE Banco de Dados ORACLE
+
 
 ##
 
